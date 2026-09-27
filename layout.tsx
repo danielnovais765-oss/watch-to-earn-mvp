@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Watch to Earn',description:'Assista e acumule recompensas'}; export default function Root({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body>{children}</body></html>}
